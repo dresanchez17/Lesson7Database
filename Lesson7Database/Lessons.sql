@@ -8,5 +8,3 @@ INSERT INTO Lessons VALUES (6, 'Networking');
 INSERT INTO Lessons VALUES (7, 'Database');
 INSERT INTO Lessons VALUES (8, 'Modules');
 INSERT INTO Lessons VALUES (9, 'Scripting and Compiling');
-
-

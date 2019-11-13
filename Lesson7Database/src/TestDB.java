@@ -49,7 +49,7 @@ public class TestDB {
 		
 		Properties props = new Properties();
 		// 
-		try (InputStream in = Files.newInputStream(Paths.get("database.properties"))) {
+		try (InputStream in = Files.newInputStream(Paths.get("COREJAVA_database.properties"))) {
 			// Loads all properties from input stream.
 			props.load(in);
 		}
